@@ -1,2 +1,2 @@
 # PRODIGY_WD_1
-I developed this website using HTML,CSS and JS
+This repository contains the source code for a fully responsive and interactive navigation menu built with HTML, CSS, and JavaScript. The menu is designed to enhance user experience with smooth scrolling, section highlighting, and dynamic styling on hover and scroll events. The project demonstrates fundamental web development skills and can be integrated into various web applications.
